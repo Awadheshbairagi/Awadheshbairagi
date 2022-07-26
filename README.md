@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awadheshbairagi
-- 👀 I’m interested in c++, go, rust
+- 👀 I’m interested in c++,python,Machine learning, go, rust
 - 🌱 I’m currently learning Github and c++
 - 📫 How to reach me
 ### Connect with me 
