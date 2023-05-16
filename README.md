@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awadheshbairagi
 - 👀 I’m interested in c++,python,Machine learning, go, rust, web development. 
-- 🌱 I’m currently learning Machine learning and data analysis
+- 🌱 I’m currently learning Machine learning and data analysis. 
 - 📫 How to reach me
 ### Connect with me 
 <a href="https://www.instagram.com/awadhesh_bairagi_/"><img width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"></a>
